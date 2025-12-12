@@ -26,9 +26,7 @@ The app features dynamic theme switching (Dark Mode by default) and a clear, thr
 
 hese screenshots showcase every major screen, theme state, and interaction within **Taskify**.
 
-| ## 🖼️ Screenshots & Demo
 
-These screenshots showcase every major screen, theme state, and interaction within **Taskify**, using the files you uploaded to `assets/screenshots/`.
 
 | Feature | Dark Mode View | Light Mode View |
 | :--- | :---: | :---: |
