@@ -1,4 +1,4 @@
-# 🌟 Taskify: The Intuitive Flutter Todo Manager
+#  Taskify: The Intuitive Flutter Todo Manager
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Built with Flutter](https://img.shields.io/badge/Build%20with-Flutter-02569B.svg?logo=flutter)](https://flutter.dev)
@@ -7,13 +7,13 @@
 
 ---
 
-## 💡 Overview
+##  Overview
 
 **Taskify** is a modern, cross-platform todo list application built with **Flutter** that focuses on simplicity, speed, and seamless persistence. It utilizes the powerful **Hive NoSQL database** for fast, local data storage, ensuring your tasks are always available offline. 
 
 The app features dynamic theme switching (Dark Mode by default) and a clear, three-page navigation structure to manage pending, completed, and overall task progress via a visual Dashboard.
 
-## ✨ Key Features
+##  Key Features
 
 * **Local Persistence:** Uses **Hive** database for fast, reliable, and entirely offline data storage.
 * **Dynamic Theming:** Seamless one-tap switching between **Dark Mode** (default) and **Light Mode**.
@@ -22,7 +22,7 @@ The app features dynamic theme switching (Dark Mode by default) and a clear, thr
 * **Task Progression:** Mark pending tasks as complete with a single tap, moving them from the pending list (`todoBox`) to the completed list (`completeBox`).
 * **Animated Splash Screen:** Engaging loading screen using **Lottie** animations during app initialization.
 
-## 🖼️ Screenshots & Demo
+##  Screenshots & Demo
 
 hese screenshots showcase every major screen, theme state, and interaction within **Taskify**.
 
@@ -37,12 +37,12 @@ hese screenshots showcase every major screen, theme state, and interaction withi
 | **Completed Tasks** | ![Completed Tasks Dark Mode](assets/screenshots/c_Dark.jpeg) | ![Completed Tasks Light Mode](assets/screenshots/c_light.jpeg) |
 | **Error Handling** | ![Add Task Validation Error](assets/screenshots/add_task_D_err.jpeg) | N/A |
 
-> 🎥 **Watch the Demo Video:** [View App Demo on YouTube](https://youtube.com/shorts/fyUo7yd8qCk)
+>  **Watch the Demo Video:** [View App Demo on YouTube](https://youtube.com/shorts/fyUo7yd8qCk)
 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -74,7 +74,7 @@ You need to have Flutter installed and configured on your system.
 
 ---
 
-## 🛠️ Project Structure & Technology Stack
+##  Project Structure & Technology Stack
 
 The project uses a clean, component-based structure, leveraging **Hive** for persistence and **ValueNotifier** for lightweight global state management.
 
@@ -103,7 +103,7 @@ The project uses a clean, component-based structure, leveraging **Hive** for per
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -115,7 +115,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See the `LICENSE` file in the repository root for more information.
 
